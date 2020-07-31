@@ -1,0 +1,25 @@
+body {
+  background-color: lightsteelblue;
+}
+h1 {
+  color: blue;
+  font-family: papyrus;
+}
+h3 {
+  color: red;
+  font-family: Harrington;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: blue;
+  border-width: 5px;
+  width: 5%;
+}
+img {
+  height: 200px;
+}
+th {
+  color: green;
+  font-family: fantasy;
+}
